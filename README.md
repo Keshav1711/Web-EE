@@ -13,4 +13,4 @@ How to build a website:
 - Copy the ci.yml file contents from this repo and paste them into the workflow file, rename it to ci.yml
 - Go to settings/environments, add an environmnent, name it github-pages
 - Go to pages and select branch as main
-- Website should be deployed at https://<username>.github.io/<repo-name>/
+- Website should be deployed at https://'username'.github.io/'repo-name'/
