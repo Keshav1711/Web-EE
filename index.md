@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ##DEPARTMENT ACADEMIC MENTORSHIP PROGRAM
+title: DAMP
 subtitle: Department of Electrical Engineering, IIT Bombay
 cover-img: "assets/img/MB-knowledge-tree.jpeg"
 ---
