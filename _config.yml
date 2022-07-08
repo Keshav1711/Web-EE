@@ -16,6 +16,7 @@ author: KyZEN1711
 navbar-links:
   About: "about"
   Projects: "Projects"
+  News: "index"
   Resources:
     #- TestPDF: "TestPDF/week1_all.pdf"
     - EE-309: "2022-1-05-EE309"
