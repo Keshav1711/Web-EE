@@ -16,7 +16,7 @@ author: KyZEN1711
 navbar-links:
   About: "about"
   Projects: "Projects"
-  News: "index"
+  News: "News/index"
   Resources:
     #- TestPDF: "TestPDF/week1_all.pdf"
     - EE-309: "EE309-Microprocessors/EE309"
