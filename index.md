@@ -2,7 +2,7 @@
 layout: page
 title: DEPARTMENT ACADEMIC MENTORSHIP PROGRAM
 subtitle: Department of Electrical Engineering, IIT Bombay
-cover-img: https://www.aplustopper.com/wp-content/uploads/2020/07/Essay-on-Books-and-Reading.png
+cover-img: "assets/img/MB-knowledge-tree.jpeg"
 ---
 
 ### About
