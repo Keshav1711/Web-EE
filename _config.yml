@@ -19,8 +19,8 @@ navbar-links:
   News: "News/index"
   Resources:
     #- TestPDF: "TestPDF/week1_all.pdf"
-    - EE-309: "EE309-Microprocessors/EE309"
-    - HS-431: "HS431/HS"
+    - Minor Reviews: "EE309-Microprocessors/EE309"
+    - Course Reviews: "HS431/HS"
   
   # Author's home: "https://deanattali.com"
 
